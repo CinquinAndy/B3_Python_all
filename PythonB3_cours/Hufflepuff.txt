@@ -1,0 +1,14 @@
+name : Cedric Diggory | baguette: [materiel : ash | coeur : unicorn hair | longueur : 12.25]
+name : Fat Friar 
+name : Hannah Abbott 
+name : Susan Bones 
+name : Justin Finch-Fletchley 
+name : Professor Sprout 
+name : Ernie Macmillan 
+name : Eleanor Branstone 
+name : Owen Cauldwell 
+name : Kevin Whitby 
+name : Summers 
+name : Nymphadora Tonks 
+name : Rose Zeller 
+name : Summerby 

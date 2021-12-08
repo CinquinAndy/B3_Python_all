@@ -1,0 +1,38 @@
+name : Draco Malfoy | dateOfBirth : 05-06-1980 | baguette: [materiel : hawthorn | coeur : unicorn tail-hair | longueur : 10]
+name : Severus Snape | dateOfBirth : 09-01-1960 
+name : Bellatrix Lestrange | baguette: [materiel : walnut | coeur : dragon heartstring | longueur : 12.75]
+name : Lord Voldemort | dateOfBirth : 31-12-1926 | baguette: [materiel : yew | coeur : phoenix feather | longueur : 13.5]
+name : Horace Slughorn | baguette: [materiel : cedar | coeur : dragon heartstring | longueur : 10.25]
+name : Dolores Umbridge | baguette: [materiel : birch | coeur : dragon heartstring | longueur : 8]
+name : Lucius Malfoy | baguette: [materiel : elm | coeur : dragon heartstring | longueur : 18]
+name : Vincent Crabbe 
+name : Gregory Goyle 
+name : Millicent Bulstrode 
+name : Theodore Nott 
+name : Pansy Parkinson 
+name : Blaise Zabini 
+name : Bloody Baron 
+name : Marcus Flint 
+name : Adrian Pucey 
+name : Miles Bletchley 
+name : Terrence Higgs 
+name : Milicent Bullstroude 
+name : Cassius Warrington 
+name : Graham Montague 
+name : Peregrine Derrick 
+name : Lucian Bole 
+name : Walden Macnair 
+name : Malcolm Baddock 
+name : Graham Pritchard 
+name : Evan Rosier 
+name : Wilkes 
+name : Rodolphus Lestrange 
+name : Avery 
+name : Mulciber 
+name : Alphard Black 
+name : Regulus Black 
+name : Phineas Nigelus Black 
+name : Araminta Meliflua Black 
+name : Andromeda Tonks 
+name : Rodolphus Lestrange 
+name : Rabastan Lestrange 

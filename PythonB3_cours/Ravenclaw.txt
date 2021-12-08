@@ -1,0 +1,17 @@
+name : Cho Chang 
+name : Luna Lovegood | dateOfBirth : 13-02-1981 
+name : Terry Boot 
+name : Mandy Brocklehurst 
+name : Padma Patil 
+name : Lisa Turpin 
+name : Professor Flitwick 
+name : Moaning Myrtle 
+name : Penelope Clearwater 
+name : Stewart Ackerley 
+name : Orla Quirke 
+name : Fawcett 
+name : Stebbins 
+name : Anthony Goldstein 
+name : Michael Corner 
+name : Zacharias Smith 
+name : Marietta Edgecombe 
